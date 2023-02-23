@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaho&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaho&show_icons=true&theme=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttaho&layout=compact)](https://github.com/ttaho/github-readme-stats)
 
 <!--
